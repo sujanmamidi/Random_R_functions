@@ -1,6 +1,6 @@
 # Random_R_functions
 
-## sliding_window_frequency   
+## sliding_window_SNP_frequency   
 Calculates SNP frequency in sliding windows along a chromosome.   
 Requires a text file with 2 columns (space separated, no heading).   
 ###Usage:     
